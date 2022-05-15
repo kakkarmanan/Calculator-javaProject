@@ -431,6 +431,7 @@ double num,ans;
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+    
     int n5;
     private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
         // TODO add your handling code here:
